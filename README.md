@@ -77,4 +77,4 @@ python autoTyperGUI.py
 
 ## Author
 
-Made with ♥ by [Julian-Idl](julian-idl.codes)
+Made with ♥ by [`Julian-Idl`](https://julian-idl.codes) 
